@@ -20,6 +20,3 @@
 ### 12_ゲート付きRNN（LSTM・GRU）
 ### 13_エンコーダ・デコーダモデル（seq2seq・Attention）
 
-## XXX
-### 14_PyTorch
-
