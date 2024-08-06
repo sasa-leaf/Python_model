@@ -1,4 +1,4 @@
-# Python_model
+# Python_DeepLearning
 
 ## Pythonの基本
 ### 00_Pythonの基本構文
@@ -19,4 +19,7 @@
 ### 11_再帰型ニューラルネットワーク（RNN）
 ### 12_ゲート付きRNN（LSTM・GRU）
 ### 13_エンコーダ・デコーダモデル（seq2seq・Attention）
+
+## 実践
+### 14_PyTorchでのテーブルデータでの深層学習
 
